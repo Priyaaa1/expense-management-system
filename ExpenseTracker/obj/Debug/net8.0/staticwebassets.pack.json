@@ -1,8 +1,8 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Dell\\source\\repos\\expense_tracker\\ExpenseTracker\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ExpenseManagementSystem.bundle.scp.css",
-      "PackagePath": "staticwebassets\\ExpenseManagementSystem.bundle.scp.css"
+      "Id": "C:\\Users\\Dell\\source\\repos\\expense_tracker\\ExpenseTracker\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ExpenseTracker.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ExpenseTracker.bundle.scp.css"
     },
     {
       "Id": "C:\\Users\\Dell\\source\\repos\\expense_tracker\\ExpenseTracker\\wwwroot\\css\\site.css",
@@ -245,20 +245,20 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ExpenseManagementSystem.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ExpenseTracker.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ExpenseManagementSystem.props",
-      "PackagePath": "build\\ExpenseManagementSystem.props"
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ExpenseTracker.props",
+      "PackagePath": "build\\ExpenseTracker.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ExpenseManagementSystem.props",
-      "PackagePath": "buildMultiTargeting\\ExpenseManagementSystem.props"
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ExpenseTracker.props",
+      "PackagePath": "buildMultiTargeting\\ExpenseTracker.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ExpenseManagementSystem.props",
-      "PackagePath": "buildTransitive\\ExpenseManagementSystem.props"
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ExpenseTracker.props",
+      "PackagePath": "buildTransitive\\ExpenseTracker.props"
     }
   ],
   "ElementsToRemove": []

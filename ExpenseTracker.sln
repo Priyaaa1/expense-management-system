@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExpenseManagementSystem", "ExpenseTracker\ExpenseManagementSystem.csproj", "{86174A9F-CC8D-4234-9DBF-ABD503AB9187}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExpenseTracker", "ExpenseTracker\ExpenseTracker.csproj", "{86174A9F-CC8D-4234-9DBF-ABD503AB9187}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{686993AC-0983-44BC-B92D-5955191C65E3}"
 	ProjectSection(SolutionItems) = preProject

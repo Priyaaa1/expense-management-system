@@ -509,3 +509,4 @@ C:\Users\Dell\source\repos\expense_tracker\ExpenseTracker\obj\Debug\net8.0\refin
 C:\Users\Dell\source\repos\expense_tracker\ExpenseTracker\obj\Debug\net8.0\ExpenseTracker.pdb
 C:\Users\Dell\source\repos\expense_tracker\ExpenseTracker\obj\Debug\net8.0\ExpenseTracker.genruntimeconfig.cache
 C:\Users\Dell\source\repos\expense_tracker\ExpenseTracker\obj\Debug\net8.0\ref\ExpenseTracker.dll
+C:\Users\Dell\source\repos\expense_tracker\ExpenseTracker\bin\Debug\net8.0\System.Text.Json.dll
