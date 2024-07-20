@@ -3,44 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Dell\\source\\repos\\expense_tracker\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{86174A9F-CC8D-4234-9DBF-ABD503AB9187}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\dell\\source\\repos\\expense_tracker\\expensetracker\\views\\transaction\\addoredit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{86174A9F-CC8D-4234-9DBF-ABD503AB9187}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\views\\transaction\\addoredit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{86174A9F-CC8D-4234-9DBF-ABD503AB9187}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\dell\\source\\repos\\expense_tracker\\expensetracker\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86174A9F-CC8D-4234-9DBF-ABD503AB9187}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{86174A9F-CC8D-4234-9DBF-ABD503AB9187}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\dell\\source\\repos\\expense_tracker\\expensetracker\\views\\category\\addoredit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{86174A9F-CC8D-4234-9DBF-ABD503AB9187}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\views\\category\\addoredit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86174A9F-CC8D-4234-9DBF-ABD503AB9187}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\dell\\source\\repos\\expense_tracker\\expensetracker\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86174A9F-CC8D-4234-9DBF-ABD503AB9187}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86174A9F-CC8D-4234-9DBF-ABD503AB9187}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\dell\\source\\repos\\expense_tracker\\expensetracker\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86174A9F-CC8D-4234-9DBF-ABD503AB9187}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86174A9F-CC8D-4234-9DBF-ABD503AB9187}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\dell\\source\\repos\\expense_tracker\\expensetracker\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86174A9F-CC8D-4234-9DBF-ABD503AB9187}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86174A9F-CC8D-4234-9DBF-ABD503AB9187}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\dell\\source\\repos\\expense_tracker\\expensetracker\\views\\transaction\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{86174A9F-CC8D-4234-9DBF-ABD503AB9187}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\views\\transaction\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86174A9F-CC8D-4234-9DBF-ABD503AB9187}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\dell\\source\\repos\\expense_tracker\\expensetracker\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{86174A9F-CC8D-4234-9DBF-ABD503AB9187}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86174A9F-CC8D-4234-9DBF-ABD503AB9187}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\dell\\source\\repos\\expense_tracker\\expensetracker\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{86174A9F-CC8D-4234-9DBF-ABD503AB9187}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{86174A9F-CC8D-4234-9DBF-ABD503AB9187}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\dell\\source\\repos\\expense_tracker\\expensetracker\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86174A9F-CC8D-4234-9DBF-ABD503AB9187}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{86174A9F-CC8D-4234-9DBF-ABD503AB9187}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\dell\\source\\repos\\expense_tracker\\expensetracker\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{86174A9F-CC8D-4234-9DBF-ABD503AB9187}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{86174A9F-CC8D-4234-9DBF-ABD503AB9187}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\dell\\source\\repos\\expense_tracker\\expensetracker\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86174A9F-CC8D-4234-9DBF-ABD503AB9187}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{86174A9F-CC8D-4234-9DBF-ABD503AB9187}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\dell\\source\\repos\\expense_tracker\\expensetracker\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86174A9F-CC8D-4234-9DBF-ABD503AB9187}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86174A9F-CC8D-4234-9DBF-ABD503AB9187}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\dell\\source\\repos\\expense_tracker\\expensetracker\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86174A9F-CC8D-4234-9DBF-ABD503AB9187}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{86174A9F-CC8D-4234-9DBF-ABD503AB9187}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\dell\\source\\repos\\expense_tracker\\expensetracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,140 +42,76 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AddOrEdit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\expense_tracker\\ExpenseTracker\\Views\\Category\\AddOrEdit.cshtml",
-              "RelativeDocumentMoniker": "ExpenseTracker\\Views\\Category\\AddOrEdit.cshtml",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\expense_tracker\\ExpenseTracker\\Views\\Category\\AddOrEdit.cshtml",
-              "RelativeToolTip": "ExpenseTracker\\Views\\Category\\AddOrEdit.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAABoAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-09T10:19:54.969Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\expense_tracker\\ExpenseTracker\\Views\\Category\\Index.cshtml",
-              "RelativeDocumentMoniker": "ExpenseTracker\\Views\\Category\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\expense_tracker\\ExpenseTracker\\Views\\Category\\Index.cshtml",
-              "RelativeToolTip": "ExpenseTracker\\Views\\Category\\Index.cshtml",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAACIAAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-08T19:33:08.585Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\expense_tracker\\ExpenseTracker\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "ExpenseTracker\\Models\\Category.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\expense_tracker\\ExpenseTracker\\Models\\Category.cs",
-              "RelativeToolTip": "ExpenseTracker\\Models\\Category.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAYwAgAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T16:52:11.827Z",
-              "EditorCaption": ""
+              "Title": "_SideBar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\expense_tracker\\ExpenseTracker\\Views\\Shared\\_SideBar.cshtml",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Views\\Shared\\_SideBar.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\expense_tracker\\ExpenseTracker\\Views\\Shared\\_SideBar.cshtml",
+              "RelativeToolTip": "ExpenseTracker\\Views\\Shared\\_SideBar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-18T20:57:01.68Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Transaction.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\expense_tracker\\ExpenseTracker\\Models\\Transaction.cs",
-              "RelativeDocumentMoniker": "ExpenseTracker\\Models\\Transaction.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\expense_tracker\\ExpenseTracker\\Models\\Transaction.cs",
-              "RelativeToolTip": "ExpenseTracker\\Models\\Transaction.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAowAUAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T18:23:00.158Z",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\expense_tracker\\ExpenseTracker\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\expense_tracker\\ExpenseTracker\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "ExpenseTracker\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-18T20:45:50.92Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AddOrEdit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\expense_tracker\\ExpenseTracker\\Views\\Transaction\\AddOrEdit.cshtml",
-              "RelativeDocumentMoniker": "ExpenseTracker\\Views\\Transaction\\AddOrEdit.cshtml",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\expense_tracker\\ExpenseTracker\\Views\\Transaction\\AddOrEdit.cshtml",
-              "RelativeToolTip": "ExpenseTracker\\Views\\Transaction\\AddOrEdit.cshtml",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAACIAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-15T15:08:00.024Z",
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\expense_tracker\\ExpenseTracker\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\expense_tracker\\ExpenseTracker\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "ExpenseTracker\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAowCwAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T20:44:14.69Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "TransactionController.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\expense_tracker\\ExpenseTracker\\Controllers\\TransactionController.cs",
-              "RelativeDocumentMoniker": "ExpenseTracker\\Controllers\\TransactionController.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\expense_tracker\\ExpenseTracker\\Controllers\\TransactionController.cs",
-              "RelativeToolTip": "ExpenseTracker\\Controllers\\TransactionController.cs",
-              "ViewState": "AQIAAC4AAAAAAAAAAAAkwDoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T11:59:16.396Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\expense_tracker\\ExpenseTracker\\Views\\Transaction\\Index.cshtml",
-              "RelativeDocumentMoniker": "ExpenseTracker\\Views\\Transaction\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\expense_tracker\\ExpenseTracker\\Views\\Transaction\\Index.cshtml",
-              "RelativeToolTip": "ExpenseTracker\\Views\\Transaction\\Index.cshtml",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAqwBgAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-15T13:55:15.154Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\expense_tracker\\ExpenseTracker\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ExpenseTracker\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\Dell\\source\\repos\\expense_tracker\\ExpenseTracker\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "ExpenseTracker\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAjAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-09T11:48:26.205Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\expense_tracker\\ExpenseTracker\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "ExpenseTracker\\wwwroot\\css\\site.css",
               "ToolTip": "C:\\Users\\Dell\\source\\repos\\expense_tracker\\ExpenseTracker\\wwwroot\\css\\site.css",
               "RelativeToolTip": "ExpenseTracker\\wwwroot\\css\\site.css",
-              "ViewState": "AQIAABgAAAAAAAAAAIBJwC0AAAAAAAAA",
+              "ViewState": "AQIAAJkAAAAAAAAAAAAAAKwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-07-08T16:11:46.914Z"
+              "WhenOpened": "2024-07-08T16:11:46.914Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\expense_tracker\\ExpenseTracker\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "ExpenseTracker\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\expense_tracker\\ExpenseTracker\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "ExpenseTracker\\Controllers\\CategoryController.cs",
-              "ViewState": "AQIAAC4AAAAAAAAAAAAkwCMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T16:11:57.616Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\expense_tracker\\ExpenseTracker\\Program.cs",
               "RelativeDocumentMoniker": "ExpenseTracker\\Program.cs",
               "ToolTip": "C:\\Users\\Dell\\source\\repos\\expense_tracker\\ExpenseTracker\\Program.cs",
               "RelativeToolTip": "ExpenseTracker\\Program.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAACQAAAAAAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-08T16:11:29.602Z"
             }
