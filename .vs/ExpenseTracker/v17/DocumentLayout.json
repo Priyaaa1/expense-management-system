@@ -11,12 +11,12 @@
       "RelativeMoniker": "D:0:0:{86174A9F-CC8D-4234-9DBF-ABD503AB9187}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{86174A9F-CC8D-4234-9DBF-ABD503AB9187}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\dell\\source\\repos\\expense_tracker\\expensetracker\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{86174A9F-CC8D-4234-9DBF-ABD503AB9187}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{86174A9F-CC8D-4234-9DBF-ABD503AB9187}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\dell\\source\\repos\\expense_tracker\\expensetracker\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{86174A9F-CC8D-4234-9DBF-ABD503AB9187}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86174A9F-CC8D-4234-9DBF-ABD503AB9187}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\dell\\source\\repos\\expense_tracker\\expensetracker\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86174A9F-CC8D-4234-9DBF-ABD503AB9187}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{86174A9F-CC8D-4234-9DBF-ABD503AB9187}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\dell\\source\\repos\\expense_tracker\\expensetracker\\views\\transaction\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -64,14 +64,14 @@
               "RelativeDocumentMoniker": "ExpenseTracker\\Views\\Shared\\_SideBar.cshtml",
               "ToolTip": "C:\\Users\\Dell\\source\\repos\\expense_tracker\\ExpenseTracker\\Views\\Shared\\_SideBar.cshtml",
               "RelativeToolTip": "ExpenseTracker\\Views\\Shared\\_SideBar.cshtml",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAAB8AAAAWAAAA",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAADEAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-18T20:57:01.68Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\expense_tracker\\ExpenseTracker\\Views\\Dashboard\\Index.cshtml",
               "RelativeDocumentMoniker": "ExpenseTracker\\Views\\Dashboard\\Index.cshtml",
@@ -79,8 +79,7 @@
               "RelativeToolTip": "ExpenseTracker\\Views\\Dashboard\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-18T20:45:50.92Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-18T20:45:50.92Z"
             },
             {
               "$type": "Document",
@@ -96,15 +95,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\expense_tracker\\ExpenseTracker\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ExpenseTracker\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\Dell\\source\\repos\\expense_tracker\\ExpenseTracker\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "ExpenseTracker\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAKAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-09T11:48:26.205Z"
+              "WhenOpened": "2024-07-09T11:48:26.205Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -114,7 +114,7 @@
               "RelativeDocumentMoniker": "ExpenseTracker\\wwwroot\\css\\site.css",
               "ToolTip": "C:\\Users\\Dell\\source\\repos\\expense_tracker\\ExpenseTracker\\wwwroot\\css\\site.css",
               "RelativeToolTip": "ExpenseTracker\\wwwroot\\css\\site.css",
-              "ViewState": "AQIAAM8AAAAAAAAAAAAAAN8AAAAeAAAA",
+              "ViewState": "AQIAABoBAAAAAAAAAAAiwB8BAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-07-08T16:11:46.914Z",
               "EditorCaption": ""
